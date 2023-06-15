@@ -2,4 +2,4 @@
 
 ## This just work for ESX, but u can transform it to any framework.
 
-## Thanks to Jaareet#0097 for make this responsive :)
+## Thanks to Tortoise Design#9228 for make this responsive :)
